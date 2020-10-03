@@ -83,7 +83,7 @@ img {
   width:100%; 
   height: 446px;
   /* padding: 20px; */
-  background-image: url(./images/bahram-bayat-TbMMnWTOnHs-unsplash.jpg);
+  background-image: url(https://dgasch512.github.io/hair/images/bahram-bayat-TbMMnWTOnHs-unsplash.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -162,15 +162,15 @@ img {
 }
 
 .img-1 {
-  background-image: url(./images/father.jpg);
+  background-image: url(https://dgasch512.github.io/hair/images/father.jpg);
 }
 
 .img-2 {
-  background-image: url(./images/actor.jpg);
+  background-image: url(https://dgasch512.github.io/hair/images/actor.jpg);
 }
 
 .img-3 {
-  background-image: url(./images/nerd.jpg);
+  background-image: url(https://dgasch512.github.io/hair/images/nerd.jpg);
 }
 
 .title {
